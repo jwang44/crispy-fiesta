@@ -7,3 +7,4 @@ vector_train_stop_tfidf_Lemma
 3.5
 vector_train_Lemma_F
 * MultiNB 0.9439 0.87409
+* LinearSVM 0.91283
