@@ -8,3 +8,10 @@ vector_train_stop_tfidf_Lemma
 vector_train_Lemma_F
 * MultiNB 0.9439 0.87409
 * LinearSVM 0.9414 0.91283
+
+3.6 (after Ngram)
+vector_train_Lemma_SFML1
+* LinearSVM 0.9559 0.89346
+
+vector_train_Lemma_F
+* MultiNB 0.9610 ?
