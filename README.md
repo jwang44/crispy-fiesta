@@ -15,3 +15,6 @@ vector_train_Lemma_SFML1
 
 vector_train_Lemma_F
 * MultiNB 0.9610 0.90072
+
+vector_train_Lemma_chi2
+* LineaSVM 0.9479 0.9297
