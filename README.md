@@ -18,3 +18,6 @@ vector_train_Lemma_F
 
 vector_train_Lemma_chi2
 * LineaSVM 0.9479 0.9297
+
+vectors_train_Lemma_X2
+* Bernoulli NB 0.9204 0.88861
